@@ -1,0 +1,1 @@
+[SQLite入門](https://www.javadrive.jp/sqlite/)このサイトを学習を進めていく
